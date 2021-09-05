@@ -9,7 +9,7 @@ Data Structures Masterclass course on udemy.
 > The original course is made with Javascript language but I have used
 Java to solve every problem.
 
-:pencil: ## Index of the course :arrow_down:
+## Index of the course :arrow_down:
 
 - [Problem Solving Patterns](https://docs.oracle.com/javase/8/docs/api/javax/swing/package-summary.html)
     - [Frequency Counter Pattern](https://docs.oracle.com/javase/8/docs/api/javax/swing/package-summary.html)
