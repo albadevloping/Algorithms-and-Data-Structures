@@ -11,7 +11,7 @@ Java to solve every problem.
 
 ---
 ## Index of the course :arrow_down:
----
+
 - [Problem Solving Patterns](https://docs.oracle.com/javase/8/docs/api/javax/swing/package-summary.html)
     - [Frequency Counter Pattern](https://docs.oracle.com/javase/8/docs/api/javax/swing/package-summary.html)
     - [Multiple Pointers Pattern]()
