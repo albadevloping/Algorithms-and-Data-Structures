@@ -1,5 +1,5 @@
 
-# :small_orange_diamond: Javascript Algorithms and Data Structure masterclass on Udemy :small_orange_diamond:
+# :pushpin: Javascript Algorithms and Data Structure masterclass on Udemy
 
 **Instructor: Colt Steele**
 
